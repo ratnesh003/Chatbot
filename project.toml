@@ -1,0 +1,6 @@
+[project]
+name = "Agents"
+version = "0.1.0"
+description = "A package for simulating agents in a multi-agent system."
+readme = "README.md"
+dependencies = []
