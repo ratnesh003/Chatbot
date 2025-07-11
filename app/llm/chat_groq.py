@@ -15,3 +15,9 @@ if not GROQ_API_KEY:
     raise RuntimeError("GROQ_API_KEY not found in environment")
 
 llm = ChatGroq(api_key=GROQ_API_KEY, model="llama3-8b-8192")
+
+master = llm.bind_tools(
+    tools=[
+        # Add your tools here
+    ]
+)
