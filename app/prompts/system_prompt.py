@@ -1,6 +1,6 @@
 from langchain.prompts import PromptTemplate
 
-system_prompt_query_classification = PromptTemplate.from_template(
+system_prompt = PromptTemplate.from_template(
     """
     You are a smart and helpful hotel assistant AI. You can answer questions, perform tasks, and access external tools when needed.
 
