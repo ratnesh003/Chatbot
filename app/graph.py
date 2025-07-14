@@ -5,10 +5,12 @@ from app.tools.master import MasterNode
 from app.tools.book_room import book_room_node
 from app.tools.recommend_food import recommend_food_node
 from app.tools.recommend_room import recommend_room_node
-from app.tools.answer_faq import answer_faq_node
+from app.tools.answer_faq import answer_faq
 from langgraph.prebuilt import ToolNode, tools_condition
 
-tools = []
+tools = [
+    answer_faq
+]
 
 def build_chatbot_graph():
     graph_builder = StateGraph(State)

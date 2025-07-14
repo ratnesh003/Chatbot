@@ -6,3 +6,6 @@ langchain_groq
 langchain_tavily
 fastapi
 uvicorn
+chromadb
+sentence-transformers
+langchain-community
