@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What time is check-in and check-out?",
+    "answer": "Check-in starts at 2:00 PM and check-out is at 11:00 AM."
+  },
+  {
+    "question": "Do you offer free Wi-Fi?",
+    "answer": "Yes, complimentary high-speed Wi-Fi is available throughout the hotel."
+  },
+  {
+    "question": "Is breakfast included with all room bookings?",
+    "answer": "Complimentary breakfast is included with Deluxe and Executive rooms. For Standard rooms, it can be added for ₹250 per person."
+  },
+  {
+    "question": "Do you have parking available?",
+    "answer": "Yes, we offer free valet parking and underground parking for all guests."
+  },
+  {
+    "question": "Are pets allowed at the hotel?",
+    "answer": "Yes, we are a pet-friendly hotel. Small pets under 15 kg are allowed with a cleaning fee of ₹500 per night."
+  },
+  {
+    "question": "What is your cancellation policy?",
+    "answer": "Reservations can be canceled up to 24 hours before check-in for a full refund. After that, one night's stay will be charged."
+  },
+  {
+    "question": "Do you provide airport shuttle service?",
+    "answer": "Yes, we offer airport pickup and drop service at ₹800 per trip. Please book at least 6 hours in advance."
+  },
+  {
+    "question": "Do you have a gym or fitness center?",
+    "answer": "Yes, our 24-hour fitness center is located on the third floor and is accessible to all guests."
+  },
+  {
+    "question": "Is there a swimming pool?",
+    "answer": "Yes, we have a rooftop infinity pool open from 7:00 AM to 9:00 PM."
+  },
+  {
+    "question": "What dining options are available?",
+    "answer": "We have a multi-cuisine restaurant, a rooftop bar, 24/7 in-room dining, and a café in the lobby."
+  },
+  {
+    "question": "Do you have rooms for differently-abled guests?",
+    "answer": "Yes, we have specially designed accessible rooms and facilities across the property."
+  },
+  {
+    "question": "Can I request a late check-out?",
+    "answer": "Late check-out is subject to availability and may be charged at ₹500 per hour after 11:00 AM."
+  },
+  {
+    "question": "What documents are required at check-in?",
+    "answer": "A valid government-issued photo ID (Aadhar card, passport, or driver’s license) is required for all guests."
+  },
+  {
+    "question": "Do you provide laundry service?",
+    "answer": "Yes, we offer same-day laundry and dry cleaning services. Pickup before 10:00 AM is delivered by 6:00 PM."
+  },
+  {
+    "question": "Is smoking allowed in rooms?",
+    "answer": "We have both smoking and non-smoking rooms. Smoking in a non-smoking room may result in a cleaning fee."
+  },
+  {
+    "question": "Do you offer day-use rooms?",
+    "answer": "Yes, day-use rooms are available between 10:00 AM and 6:00 PM at special rates. Contact the front desk to book."
+  },
+  {
+    "question": "Are there any nearby tourist attractions?",
+    "answer": "Yes, we are located within 10 minutes of the City Palace, Central Market, and the Riverfront Gardens."
+  },
+  {
+    "question": "Do you have event or conference facilities?",
+    "answer": "Yes, we have 3 banquet halls and 2 conference rooms with AV equipment and seating for up to 200 guests."
+  },
+  {
+    "question": "Is room service available late at night?",
+    "answer": "Yes, our room service menu is available 24/7, including snacks, drinks, and selected meals."
+  },
+  {
+    "question": "Can I store my luggage after check-out?",
+    "answer": "Yes, we offer complimentary luggage storage for up to 24 hours after check-out."
+  }
+]
