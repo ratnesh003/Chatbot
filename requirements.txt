@@ -9,3 +9,4 @@ uvicorn
 chromadb
 sentence-transformers
 langchain-community
+pymongo[srv]==3.12

@@ -9,6 +9,7 @@ system_prompt = PromptTemplate.from_template(
     - Use tools like:
     - `book_room`: For room bookings or availability.
     - `faq_rag`: To answer hotel-related FAQs (e.g., check-in time, pet policy).
+    - `restaurant_table_reservation`: For restaurant reservations.
     - `recommend_food`: For food or restaurant recommendations.
     - `recommend_room`: To suggest rooms based on user preferences.
 
