@@ -6,7 +6,7 @@ export default function imageUploader({ images, onChange }) {
 
 	async function addImageByUrl(e) {
 		e.preventDefault();
-		const { data: filename } = await axios.post('/upload-by-url', {
+		const { data: filename } = await axios.post('/api/upload-by-url', {
 			link: imageUrl,
 		});
 		onChange((prev) => {
