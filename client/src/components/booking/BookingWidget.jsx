@@ -47,7 +47,7 @@ export default function BookingWidget({ listing }) {
 			}, 500);
 			return;
 		}
-		const response = await axios.post('/bookings', {
+		const response = await axios.post('/api/bookings', {
 			checkIn,
 			checkOut,
 			numberOfGuests,

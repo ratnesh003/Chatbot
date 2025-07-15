@@ -7,7 +7,7 @@ import ListingImg from '../../components/listing/ListingImg';
 export default function ListingsPage() {
 	const [listings, setListings] = useState([]);
 	useEffect(() => {
-		axios.get('/user-listings').then(({ data }) => {
+		axios.get('/api/user-listings').then(({ data }) => {
 			setListings(data);
 		});
 	}, []);

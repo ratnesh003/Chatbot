@@ -8,7 +8,7 @@ import axios from "axios";
         const [ready, setReady] = useState(false);
 
         async function logout(){
-            await axios.post("/logout");
+            await axios.post("/api/logout");
             setUser(null);
         }
         
