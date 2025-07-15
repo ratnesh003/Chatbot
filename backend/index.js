@@ -22,10 +22,11 @@ app.use('/uploads', express.static(__dirname + '/uploads'));
 app.use(
 	cors({
 		origin: [
-			'https://i-lounge.vercel.app',
-			'http://localhost:5173',
-			'http://localhost:3000',
-			'http://localhost:4000',
+			// 'https://i-lounge.vercel.app',
+			// 'http://localhost:5173',
+			// 'http://localhost:3000',
+			// 'http://localhost:4000',
+			'https://chatbot-alpha-swart.vercel.app',
 			process.env.CLIENT_URL
 		],
 		credentials: true,
